@@ -1,0 +1,10 @@
+Collecting requests
+  Using cached requests-2.25.0-py2.py3-none-any.whl (61 kB)
+Requirement already satisfied: chardet<4,>=3.0.2 in c:\python39\lib\site-packages (from requests) (3.0.4)
+Collecting urllib3<1.27,>=1.21.1
+  Using cached urllib3-1.26.2-py2.py3-none-any.whl (136 kB)
+Requirement already satisfied: idna<3,>=2.5 in c:\python39\lib\site-packages (from requests) (2.10)
+Collecting certifi>=2017.4.17
+  Using cached certifi-2020.11.8-py2.py3-none-any.whl (155 kB)
+Installing collected packages: urllib3, certifi, requests
+Successfully installed certifi-2020.11.8 requests-2.25.0 urllib3-1.26.2
