@@ -9,7 +9,7 @@ from multiprocessing import Pool, freeze_support
 def main():
     # URL = "https://adventofcode.com/2020/day/2/input"
     # cookies = {
-    #    'session': '53616c7465645f5f8468963830778970a0cd85a4ed8a235e1b9d229ecea70e7e655cd2a74610ea4e111cf545f6bd0eae'
+    #    'session': 'secret'
     # }
     # res = requests.get(URL, cookies=cookies)
     # data = res.content.decode('UTF-8')
