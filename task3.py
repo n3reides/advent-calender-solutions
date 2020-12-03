@@ -6,7 +6,7 @@ import copy
 def main():
     URL = "https://adventofcode.com/2020/day/3/input"
     cookies = {
-        'session': '53616c7465645f5f4215b81750c79a911b689254afdf4305cf398589a069a69bf7b7db3a2c42a0c0f66c50c775e50a84'
+        'session': 'secret'
     }
     res = requests.get(URL, cookies=cookies)
     data = res.content.decode('UTF-8')
